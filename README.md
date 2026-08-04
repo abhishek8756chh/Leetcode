@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/abhishek8756chh/Leetcode/tree/master/0058-length-of-last-word) |
+| [1768-merge-strings-alternately](https://github.com/abhishek8756chh/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/abhishek8756chh/Leetcode/tree/master/3731-find-missing-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/abhishek8756chh/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
