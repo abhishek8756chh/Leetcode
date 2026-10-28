@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishek8756chh/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2235-add-two-integers](https://github.com/abhishek8756chh/Leetcode/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishek8756chh/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
