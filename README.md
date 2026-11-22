@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishek8756chh/Leetcode/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek8756chh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhishek8756chh/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishek8756chh/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishek8756chh/Leetcode/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/abhishek8756chh/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
